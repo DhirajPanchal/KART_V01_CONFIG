@@ -1,6 +1,7 @@
 service:
   name: "STORE Service"
   tags:
-    env: "PROD"
+    env: "DEMO"
     config: "GIT"
     sensitive: "Dhiraj"
+    ver: "1"
