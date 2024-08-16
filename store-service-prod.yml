@@ -1,0 +1,6 @@
+service:
+  name: "STORE Service"
+  tags:
+    env: "PROD"
+    config: "GIT"
+    sensitive: "Dhiraj"

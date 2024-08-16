@@ -1,0 +1,6 @@
+service:
+  name: "INVENTORY Service"
+  tags:
+    env: "PROD"
+    config: "GIT"
+    sensitive: "Dhiraj"
