@@ -4,4 +4,4 @@ service:
     env: "DEMO"
     config: "GIT"
     sensitive: "{cipher}c4b1dc0047623ab3d8513907f1abe2120b92a87f629df107fff6d80e6f586c31"
-    ver: "v3"
+    ver: "v4"
