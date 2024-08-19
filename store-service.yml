@@ -4,4 +4,4 @@ service:
     env: "DEV"
     config: "GIT"
     sensitive: "Dhiraj"
-    ver: "v0"
+    ver: "v1"
